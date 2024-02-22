@@ -1,5 +1,7 @@
 # R-vs-Python
 
+RとPythonで同じ操作をしたい
+
 Rの`matrix`とPythonのnumpyの`numpy.array`
 
 足し算
